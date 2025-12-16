@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Terminal pad like dontpad via WebSocket")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.1.2.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.1.2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.1.2+68ebeda0286276b61e55d8c9fa1b5c56658856d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Wirepad.Cli")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Wirepad.Cli")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.1.2.0")]

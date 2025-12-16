@@ -43,3 +43,4 @@ C:\Users\pedro\Documents\Wirepad\src\Wirepad.Server\obj\Debug\net9.0\refint\Wire
 C:\Users\pedro\Documents\Wirepad\src\Wirepad.Server\obj\Debug\net9.0\Wirepad.Server.pdb
 C:\Users\pedro\Documents\Wirepad\src\Wirepad.Server\obj\Debug\net9.0\Wirepad.Server.genruntimeconfig.cache
 C:\Users\pedro\Documents\Wirepad\src\Wirepad.Server\obj\Debug\net9.0\ref\Wirepad.Server.dll
+C:\Users\pedro\Documents\Wirepad\src\Wirepad.Server\obj\Debug\net9.0\Wirepad.Server.sourcelink.json
