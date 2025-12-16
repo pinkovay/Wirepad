@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Wirepad.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68ebeda0286276b61e55d8c9fa1b5c56658856d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+299557238e2e957cc5ce5b83deb4fb0b68667856")]
 [assembly: System.Reflection.AssemblyProductAttribute("Wirepad.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Wirepad.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

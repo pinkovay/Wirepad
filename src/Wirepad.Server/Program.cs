@@ -28,7 +28,7 @@ app.UseRouting();
 
 app.UseCors(); 
 
-// Mapeia os endpoints, incluindo o SignalR Hub.
+// Mapeia os endpoints, incluindo o SignalR Hub
 app.UseEndpoints(endpoints =>
 {
     _ = endpoints.MapHub<PadHub>("/padhub");
